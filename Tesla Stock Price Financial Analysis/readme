@@ -1,1 +1,16 @@
+Tesla Stock Price Financial Analysis
 
+Introduction:
+This project explores Tesla's stock price through exploratory data analysis (EDA), aiming to uncover trends, anomalies, and factors influencing its fluctuations. Understanding Tesla's market performance is crucial for investors and analysts, and this analysis provides insights for strategic decision-making and future investments.
+
+Technologies:
+Python (Data analysis and visualization) Libraries: Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
+
+Dataset:
+The dataset used in this project is downloded from web.
+
+Task List:
+ Import libraries and load data
+ Clean and preprocess data
+ Conduct exploratory data analysis
+ Draw conclusions and insights
